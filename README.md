@@ -1,12 +1,14 @@
 # Roam (*DubHacks 2025 Top Prize Winner*)
 
+> **Note:** This project was originally developed as a collaborative hackathon project.
+> This repository represents my continued independent development and maintenance.  
+> Original hackathon contributors: Trenston Ricks, Kai Black, Sebastian Torresola, David Gesl.  
+> Ongoing development by: Trenston Ricks.
+
 Roam is a mobile-controlled network gateway system. It allows businesses to monetize their internet connection using a Raspberry Pi gateway, while enabling users to easily find and purchase temporary WiFi access through a mobile app.
 
 [DubHacks Devpost](https://devpost.com/software/roam-7h8vbm?_gl=1*gp1dzm*_gcl_au*MzUwOTM5MzY1LjE3NjA4NTE3Mjg.*_ga*MTM4OTI3NTU5LjE3NjA4NTE3Mjk.*_ga_0YHJK3Y10M*czE3NjYwMzc0NTQkbzMkZzEkdDE3NjYwMzc3ODIkajUxJGwwJGgw
 )
-
-> **Note:** This project was originally developed as a collaborative hackathon project.
-> This repository represents my continued independent development and maintenance.
 
 ## Architecture
 
